@@ -57,6 +57,7 @@
             <li>Tests statistiques : Jarque-Bera, ADF, KPSS, Engle-Granger</li>
             <li>Séries temporelles : Modèle ARIMA, autocorrélations et cointégration</li>
         </ul>
+        
     </div>
 </body>
 </html>
