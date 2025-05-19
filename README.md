@@ -2,7 +2,7 @@
 <html lang="en">
 <body>
     <div class="container">
-        <h1>📊 Empirical Analysis of ETFs - Finance 2024-2025</h1>
+        <h1>📊 Analyse empirique des ETF (ARIMA) - Finance 2024-2025</h1>
 <strong>Contexte et objectif du projet</strong>
         
 Ce projet s’inscrit dans le domaine de la finance empirique et vise à analyser les propriétés statistiques et économétriques des fonds négociés en bourse (ETF). L’objectif principal est de comprendre la dynamique des rendements de plusieurs ETF, d’évaluer leurs caractéristiques statistiques, et d’appliquer des modèles économétriques pour mieux appréhender leur comportement temporel.
